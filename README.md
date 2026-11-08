@@ -49,7 +49,7 @@ npm install
 **4. Start the development server**
 
 ```bash
-npm start
+npm run dev
 ```
 
 *Note: Use the development command specified in your package.json if it differs from `npm start`.*
