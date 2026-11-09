@@ -22,7 +22,10 @@ TextUtils is a simple text utility web application built using React.js. It allo
 
 ## 📸 Screenshots
 
-_Add screenshots of the application here._
+![TextUtils Screnshot 1](./public/Screenshot1.png)
+![TextUtils Screnshot 2](./public/Screenshot2.png)
+![TextUtils Screnshot 3](./public/Screenshot3.png)
+![TextUtils Screnshot 4](./public/Screenshot4.png)
 
 ## 💻 Installation and Setup
 
